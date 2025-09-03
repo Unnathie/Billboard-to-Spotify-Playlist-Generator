@@ -36,6 +36,7 @@ source .venv/bin/activate   # Mac/Linux
 ```bash
 pip install requests
 pip install spotipy
+pip install bs4
 ```
 
 ### 4. Spotify Developer App
