@@ -118,5 +118,3 @@ Created playlist: https://open.spotify.com/playlist/XXXXXXXXXXXX
 
 This project is licensed under the MIT License.
 Feel free to fork, modify, and enjoy! 🎧
-
-```
